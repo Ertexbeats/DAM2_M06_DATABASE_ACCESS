@@ -1,0 +1,56 @@
+<!DOCTYPE realestate SYSTEM "RealEstate.dtd">
+<realestate> 
+    <name>We Sell Houses</name>
+    <estates>
+        <estate id = "a01" type="House">
+            <surface>101</surface>
+            <address>
+                <street>Street one</street>
+                <number>11</number>
+                <floor>10</floor>
+                <door>1</door>
+            </address>
+            <price>100000</price>
+        </estate>
+        <estate id = "a02" type = "Premises">
+            <surface>120.2</surface>
+            <address>
+                <street>Street two</street>
+                <number>22</number>
+                <floor>12</floor>
+                <door>2</door>
+            </address>
+            <price>200000</price>
+        </estate>
+        <estate id = "a03" type="House">
+            <surface>130.3</surface>
+            <address>
+                <street>Street three</street>
+                <number>33</number>
+                <floor>13</floor>
+                <door>3</door>
+            </address>
+            <price>300000</price>
+        </estate>
+        <estate id = "a04" type="Premises">
+            <surface>140</surface>
+            <address>
+                <street>Street four</street>
+                <number>44</number>
+                <floor>14</floor>
+                <door>4</door>
+            </address>
+            <price>400000</price>
+        </estate>
+        <estate id = "a05" type="House">
+            <surface>150</surface>
+            <address>
+                <street>Street five</street>
+                <number>55</number>
+                <floor>15</floor>
+                <door>5</door>
+            </address>
+            <price>500000</price>
+        </estate>
+    </estates>
+</realestate>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<games>
+    <game id="aaa">
+        <players>
+            <player id = "P1">
+                <name>Name1 Surname1</name>
+                <level>10</level>
+                <score>10.10</score>
+            </player>
+            <player id = "P2">
+                <name>Name2 Surname2</name>
+                <level>20</level>
+                <score>20.20</score>
+            </player>
+            <player id = "P3">
+                <name>Name3 Surname3</name>
+                <level>30</level>
+                <score>30.30</score>
+            </player>
+            <player id = "P4">
+                <name>Name4 Surname4</name>
+                <level>40</level>
+                <score>40.40</score>
+            </player>
+            <player id = "P5">
+                <name>Name5 Surname5</name>
+                <level>50</level>
+                <score>50.50</score>
+            </player>
+        </players>
+    </game>
+    <game id="aab">
+        <players>
+            <player id = "P1">
+                <name>Name1 Surname1</name>
+                <level>10</level>
+                <score>10.10</score>
+            </player>
+            <player id = "P6">
+                <name>Name6 Surname6</name>
+                <level>60</level>
+                <score>60.60</score>
+            </player>
+        </players>
+    </game>
+</games>

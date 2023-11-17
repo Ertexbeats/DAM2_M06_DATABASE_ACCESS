@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="ex_01.xsl" ?>
+<company>
+<department name="Research &amp; Development">
+  <employee>
+    	<name>John Doe</name>
+		<job>Software Analyst</job>
+    	<salary>2000</salary>
+  </employee>
+  <employee>
+    	<name>Jane Fletcher</name>
+    	<job>Designer</job>
+		<salary>2500</salary>
+  </employee>
+  <employee>
+    	<name>Chris Benton</name>
+    	<job>Programmer</job>
+		<salary>3100</salary>
+  </employee>
+    <employee>
+    	<name>Ben Walker</name>
+    	<job>Programmer</job>
+		<salary>2800</salary>
+  </employee>
+</department>
+<department name="Marketing">
+  <employee>
+    	<name>George Palmer</name>
+    	<job>Copywriter</job>
+		<salary>2530</salary>
+  </employee>
+  <employee>
+    	<name>Tony Norberto</name>
+		<job>Content Editor</job>
+    	<salary>1900</salary>
+  </employee>
+  <employee>
+    	<name>Adrian Segata</name>
+    	<job>Marketing Manager</job>
+		<salary>5000</salary>
+  </employee>
+</department>
+</company>

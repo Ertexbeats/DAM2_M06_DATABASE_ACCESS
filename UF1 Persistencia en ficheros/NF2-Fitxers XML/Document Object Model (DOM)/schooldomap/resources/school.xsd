@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<xs:schema version="1.0"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           elementFormDefault="qualified">
+    
+    <xs:element name="school" type="t_school" />
+    
+    <xs:complexType name="t_school">
+        <xs:sequence>
+            <xs:element name="name" type="xs:token"/>
+            <xs:element name="groups" type="t_groups"/>
+        </xs:sequence>
+    </xs:complexType>
+    
+    <xs:complexType name="t_groups">
+        <xs:sequence>
+            <xs:element name="group" type="t_group" minOccurs="0" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>    
+    
+    <xs:complexType name="t_group">
+        <xs:sequence>
+            <xs:element name="name" type="xs:token"/>
+            <xs:element name="tutor" type="xs:token"/>
+            <xs:element name="curriculum" type="xs:token"/>
+            <xs:element name="students" type="t_students"/>
+        </xs:sequence>
+    </xs:complexType>    
+    
+    <xs:complexType name="t_students">
+        <xs:sequence>
+            <xs:element name="student" type="t_student" minOccurs="0" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>     
+    
+    <xs:complexType name="t_student">
+        <xs:sequence>
+            <xs:element name="name" type="t_name"/>
+            <xs:element name="surname" type="xs:token"/>
+            <xs:element name="emails" type="t_emails"/>
+            <xs:element name="age" type="xs:positiveInteger"/>
+        </xs:sequence>
+        <xs:attribute name="id" type="xs:ID"/>
+    </xs:complexType>
+    
+    <xs:complexType name="t_emails">
+        <xs:sequence>
+            <xs:element name="email" type="t_email" minOccurs="0" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>   
+    
+    <xs:simpleType name="t_email">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="[a-zA-Z0-9]{1,15}@[a-zA-Z0-9]{1,25}[.][a-z]{2,4}"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <xs:simpleType name="t_name">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="[a-zA-Z ]{1,30}"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+</xs:schema>

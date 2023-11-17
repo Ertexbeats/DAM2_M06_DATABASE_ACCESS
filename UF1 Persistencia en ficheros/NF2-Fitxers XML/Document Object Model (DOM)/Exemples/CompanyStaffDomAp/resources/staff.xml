@@ -1,0 +1,27 @@
+<company>
+	<name>ProvenSoft</name>
+	<employees>
+		<employee nif="1A">
+			<firstname>Peter</firstname>
+			<lastname>Johnson</lastname>
+			<nickname>pjohnson</nickname>
+			<salary>1000.0</salary>
+			<address>
+				<street>A. Diagonal</street>
+				<number>100</number>
+			</address>
+		</employee>
+		<employee nif="2B">
+			<firstname>Mary</firstname>
+			<lastname>Anderson</lastname>
+			<nickname>manderson</nickname>
+			<salary>2000.0</salary>
+		</employee>
+		<employee nif="3B">
+			<firstname>Lucas</firstname>
+			<lastname>Morgan</lastname>
+			<nickname>lmorgan</nickname>
+			<salary>1500.0</salary>
+		</employee>
+	</employees>
+</company>

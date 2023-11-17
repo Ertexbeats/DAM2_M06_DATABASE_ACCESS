@@ -1,0 +1,43 @@
+<drivers>
+    <driver>
+        <driver-id>1</driver-id>
+        <firstName>John</firstName>
+        <lastName>Doe</lastName>
+        <vehicles>
+            <vehicle>
+                <vehicle-id>1</vehicle-id>
+                <name>Limousine</name>
+            </vehicle>
+            <vehicle>
+                <vehicle-id>2</vehicle-id>
+                <name>Aston Martin</name>
+            </vehicle>            
+        </vehicles>
+    </driver>
+    <driver>
+        <driver-id>2</driver-id>
+        <firstname>Joe</firstname>
+        <lastname>Blocks</lastname>
+        <vehicles>
+            <vehicle>
+                <vehicle-id>3</vehicle-id>
+                <name>Bus</name>
+            </vehicle>            
+        </vehicles>
+    </driver>
+    <driver>
+        <driver-id>3</driver-id>
+        <firstname>Peter</firstname>
+        <lastname>Finnegan</lastname>
+        <vehicles>
+            <vehicle>
+                <vehicle-id>4</vehicle-id>
+                <name>Tourism</name>
+            </vehicle> 
+            <vehicle>
+                <vehicle-id>5</vehicle-id>
+                <name>Van</name>
+            </vehicle>            
+        </vehicles>
+    </driver>
+</drivers>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<!--
+    TODO define vocabulary identification
+    PUBLIC ID: -//vendor//vocabulary//EN
+    SYSTEM ID: http://server/path/RealEstate.dtd
+
+-->
+
+<!--
+    An example how to use this DTD from your XML document:
+
+    <?xml version="1.0"?>
+
+    <!DOCTYPE realestate SYSTEM "RealEstate.dtd">
+
+    <realestate>
+    ...
+    </realestate>
+-->
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT realestate (name|estates)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT name (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT estates (estate)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT estate (surface|address|price)*>
+<!ATTLIST estate
+    id CDATA #IMPLIED
+    type CDATA #IMPLIED
+  >
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT surface (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT address (street|number|floor|door)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT street (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT number (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT floor (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT door (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT price (#PCDATA)>

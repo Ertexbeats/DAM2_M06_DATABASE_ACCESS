@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<school>
+    <name>Proven Soft</name>
+    <groups>
+        <group>
+            <name>DAM2</name>
+            <tutor>Aitor Nado</tutor>
+            <curriculum>Desarrollador de aplicaciones multiplataforma 2</curriculum>
+            <students>
+                <student id="1">
+                    <name>Miguel</name>
+                    <surname>Mendez Sena</surname>
+                    <emails>
+                        <email>ertexms@gmail.com</email>
+                        <email>miguelmendez@gmail.com</email>
+                    </emails>
+                    <age>20</age>
+                </student>
+                <student id="2">
+                    <name>Pepe</name>
+                    <surname>Garcia Lopez</surname>
+                    <emails>
+                    </emails>
+                    <age>80</age>
+                </student>
+                <student id="3">
+                    <name>David Alejandro</name>
+                    <surname>Cedillo Guzman</surname>
+                    <emails>
+                        <email>davidcedillo@gmail.com</email>
+                    </emails>
+                    <age>26</age>
+                </student>
+                <student id="4">
+                    <name>Harmando</name>
+                    <surname>Paredes Duras</surname>
+                    <emails>
+                        <email>armandillo@gmail.com</email>
+                    </emails>
+                    <age>18</age>
+                </student>
+            </students>
+        </group>
+        <group>
+            <name>DAM1</name>
+            <tutor>Aitor Tilla</tutor>
+            <curriculum>Desarrollador de aplicaciones multiplataforma 1</curriculum>
+            <students>
+                <student id="1">
+                    <name>John</name>
+                    <surname>Doe</surname>
+                    <emails>
+                        <email>johidoe@example.com</email>
+                        <email>johndoe@email.com</email>
+                    </emails>
+                    <age>23</age>
+                </student>
+            </students>
+        </group>
+        <group>
+            <name>DAW2</name>
+            <tutor>Harmando Pleito</tutor>
+            <curriculum>Desarrollador de aplicaciones web 2</curriculum>
+            <students>
+            </students>
+        </group>
+    </groups>
+</school>

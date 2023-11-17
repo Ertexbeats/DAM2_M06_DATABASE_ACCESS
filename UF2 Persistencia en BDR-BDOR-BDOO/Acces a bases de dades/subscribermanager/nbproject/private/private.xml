@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/alumne/ws/dam2-m03/a611/SubscriberManager/src/subscribermanager/Main.java</file>
+            <file>file:/home/alumne/ws/dam2-m03/a611/SubscriberManager/src/subscribermanager/model/persistence/SubscriberDAO.java</file>
+            <file>file:/home/alumne/ws/dam2-m03/a611/SubscriberManager/src/subscribermanager/model/Subscriber.java</file>
+            <file>file:/home/alumne/ws/dam2-m03/a611/SubscriberManager/src/subscribermanager/model/persistence/DBConnect.java</file>
+            <file>file:/home/alumne/ws/dam2-m03/a611/SubscriberManager/dbsubscriber.sql</file>
+            <file>file:/home/alumne/ws/dam2-m03/a611/SubscriberManager/src/subscribermanager/model/Model.java</file>
+        </group>
+    </open-files>
+</project-private>

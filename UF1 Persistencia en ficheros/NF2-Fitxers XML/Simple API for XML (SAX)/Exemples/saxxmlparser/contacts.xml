@@ -1,0 +1,17 @@
+<!DOCTYPE contacts SYSTEM "contacts.dtd">
+
+<contacts xsi:noNamespaceSchemaLocation="contacts.xsd" 
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"> 
+  <contact title="MRS"> 
+    <firstname>Edwin</firstname> 
+    <lastname>Dankert</lastname>
+  </contact> 
+  <contact title="MR"> 
+    <firstname>Charles</firstname> 
+    <lastname>Brown</lastname>
+  </contact>
+  <contact title="MS"> 
+    <firstname>Eve</firstname> 
+    <lastname>Longhorn</lastname>
+  </contact>
+</contacts>

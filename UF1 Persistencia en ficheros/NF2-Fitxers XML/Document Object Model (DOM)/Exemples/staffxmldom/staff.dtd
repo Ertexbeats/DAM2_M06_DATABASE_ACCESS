@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<!ELEMENT company (staff)*>
+
+<!ELEMENT staff (firstname|lastname|nickname|salary|address)*>
+<!ATTLIST staff
+    nif CDATA #IMPLIED
+  >
+
+<!ELEMENT firstname (#PCDATA)>
+
+<!ELEMENT lastname (#PCDATA)>
+
+<!ELEMENT nickname (#PCDATA)>
+
+<!ELEMENT salary (#PCDATA)>
+
+<!ELEMENT address (street|number)*>
+
+<!ELEMENT street (#PCDATA)>
+
+<!ELEMENT number (#PCDATA)>
