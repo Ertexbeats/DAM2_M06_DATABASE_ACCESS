@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<workspaces>
+    <workspace>
+        <code>code01</code>
+        <seats>8</seats>
+        <enclosed>false</enclosed>
+    </workspace>
+    <workspace>
+        <code>code06</code>
+        <seats>5</seats>
+        <enclosed>true</enclosed>
+    </workspace>
+    <workspace>
+        <code>code08</code>
+        <seats>1</seats>
+        <enclosed>true</enclosed>
+    </workspace>
+    <workspace>
+        <code>code10</code>
+        <seats>8</seats>
+        <enclosed>false</enclosed>
+    </workspace>
+</workspaces>

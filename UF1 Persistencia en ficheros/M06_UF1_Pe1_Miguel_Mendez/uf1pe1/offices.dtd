@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!ELEMENT offices (office)*>
+<!ELEMENT office (name|workspaces)*>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT workspaces (workspace)*>
+<!ELEMENT workspace (code|seats|phone*|enclosed)*>
+<!ELEMENT code (#PCDATA)>
+<!ELEMENT seats (#PCDATA)>
+<!ELEMENT phone (#PCDATA)>
+<!ELEMENT enclosed (#PCDATA)>

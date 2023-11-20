@@ -29,7 +29,7 @@ public class Main {
             //search by phone that exists.
             System.out.println("====Search phone="+"phone05"+"====");
             list = model.searchSubscribersByPhone("phone05");
-            printList(list);
+            printList(list); // Cambio
             //search by age that exists.
             System.out.println("====Search age="+"12"+"====");
             list = model.searchSubscribersByAge(12);

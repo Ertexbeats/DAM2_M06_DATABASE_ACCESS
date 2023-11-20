@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Workspaces>
+    <Workspace>
+        <code>code07</code>
+        <seats>9</seats>
+        <enclosed>false</enclosed>
+    </Workspace>
+    <Workspace>
+        <code>code13</code>
+        <seats>9</seats>
+        <enclosed>false</enclosed>
+    </Workspace>
+</Workspaces>
