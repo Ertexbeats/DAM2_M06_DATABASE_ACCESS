@@ -1,0 +1,10 @@
+
+^
+java:S2095h"HUse try-with-resources or close this "Connection" in a "finally" clause.(¢ß³Ö
+o
+java:S1450"YRemove the "joinRowSet" field and declare it as a local variable in the relevant methods.(åØÛù
+q
+java:S1450"VRemove the "rowSet1" field and declare it as a local variable in the relevant methods.(¦š­¤þÿÿÿÿ
+l
+java:S1450"VRemove the "rowSet2" field and declare it as a local variable in the relevant methods.(Œ’ñ‘
+V	java:S125#"<This block of commented-out lines of code should be removed.(ÒŸøÿÿÿÿ

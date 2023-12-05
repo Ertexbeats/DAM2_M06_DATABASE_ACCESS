@@ -1,0 +1,13 @@
+
+u
+java:S1450"SRemove the "exit" field and declare it as a local variable in the relevant methods.(´Ê­İüÿÿÿÿ8ßªœÃ1
+t
+java:S1450"WRemove the "mainMenu" field and declare it as a local variable in the relevant methods.(Öß8Àæ¨œÃ1
+L	java:S106M"+Replace this use of System.out by a logger.(ñ‡ø˜ùÿÿÿÿ8˜ÖæƒÃ1
+H	java:S106¦"+Replace this use of System.out by a logger.(¢È¶ú8¢ÖæƒÃ1
+t
+java:S3457§"Q%n should be used in place of \n to produce the platform-specific line separator.(œŠçšúÿÿÿÿ8¢ÖæƒÃ1
+M	java:S106§"+Replace this use of System.out by a logger.(œŠçšúÿÿÿÿ8£ÖæƒÃ1
+H	java:S106²"+Replace this use of System.out by a logger.(ÌË§„8¥ÖæƒÃ1
+M	java:S106½"+Replace this use of System.out by a logger.(Ø¦ˆŞúÿÿÿÿ8ªÖæƒÃ1
+M	java:S106Æ"+Replace this use of System.out by a logger.(øºÑûúÿÿÿÿ8­ÖæƒÃ1

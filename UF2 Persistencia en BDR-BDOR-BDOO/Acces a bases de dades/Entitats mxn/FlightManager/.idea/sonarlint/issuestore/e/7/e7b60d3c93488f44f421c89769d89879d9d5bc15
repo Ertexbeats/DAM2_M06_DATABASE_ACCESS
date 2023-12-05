@@ -1,0 +1,11 @@
+
+k
+java:S2095L"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ïáÏU8ÏÆÏ¬Ã1
+d
+java:S20957"GUse try-with-resources or close this "Statement" in a "finally" clause.(˜ğ×8ÍÆÏ¬Ã1
+S
+java:S2589;"7Remove this expression which always evaluates to "true"(­°ºg8×ÆÏ¬Ã1
+v	java:S116"URename this field "TABLE_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤Ìëõÿÿÿÿÿ8Ò„ã§Ã1
+X	java:S125A"<This block of commented-out lines of code should be removed.(åê•§8×„ã§Ã1
+O
+java:S1135c"2Complete the task associated to this TODO comment.(…ïœ†8Ú„ã§Ã1

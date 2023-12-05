@@ -1,0 +1,27 @@
+
+e
+java:S2095“"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ïáÏU
+d
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ïáÏU
+]
+java:S20957"GUse try-with-resources or close this "Statement" in a "finally" clause.(˜ğ×
+e
+java:S2095¢"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ïáÏU
+d
+java:S2095f"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ïáÏU
+d
+java:S2095M"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ïáÏU
+|
+java:S4165T"aRemove this useless assignment; "cat" already holds the assigned value along all execution paths.(àçï¶üÿÿÿÿ
+R
+java:S2589<"7Remove this expression which always evaluates to "true"(ú¼ÿĞıÿÿÿÿ
+M
+java:S11354"2Complete the task associated to this TODO comment.(÷ôÚáøÿÿÿÿ
+P	java:S125A"<This block of commented-out lines of code should be removed.(„Œµp
+V	java:S125W"<This block of commented-out lines of code should be removed.(ò÷´õşÿÿÿÿ
+P	java:S125o"<This block of commented-out lines of code should be removed.(„Œµp
+Q	java:S125„"<This block of commented-out lines of code should be removed.(„Œµp
+W	java:S125™"<This block of commented-out lines of code should be removed.(ò÷´õşÿÿÿÿ
+Q	java:S125¦"<This block of commented-out lines of code should be removed.(„Œµp
+N
+java:S1135®"2Complete the task associated to this TODO comment.(ÃÇÄßşÿÿÿÿ

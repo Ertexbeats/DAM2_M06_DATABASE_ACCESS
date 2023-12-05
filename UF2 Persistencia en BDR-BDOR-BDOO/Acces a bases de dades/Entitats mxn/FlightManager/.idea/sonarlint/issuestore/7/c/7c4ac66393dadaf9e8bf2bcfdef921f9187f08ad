@@ -1,0 +1,16 @@
+
+d
+java:S20955"GUse try-with-resources or close this "Statement" in a "finally" clause.(˜ğ×8ÏÅÏ¬Ã1
+k
+java:S2095a"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ïáÏU8ĞÅÏ¬Ã1
+k
+java:S2095P"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ïáÏU8ÓÅÏ¬Ã1
+k
+java:S2095w"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ïáÏU8ÑÅÏ¬Ã1
+S
+java:S2589|"7Remove this expression which always evaluates to "true"(­°ºg8ÚÅÏ¬Ã1
+S
+java:S25899"7Remove this expression which always evaluates to "true"(­°ºg8âÅÏ¬Ã1
+S
+java:S2589f"7Remove this expression which always evaluates to "true"(­°ºg8áÅÏ¬Ã1
+v	java:S116"URename this field "TABLE_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤Ìëõÿÿÿÿÿ8ÙèÅ§Ã1
